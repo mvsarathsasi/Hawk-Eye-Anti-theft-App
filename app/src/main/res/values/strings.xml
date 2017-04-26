@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Hawk-Eye Antitheft</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">WELCOME</string>
+    <string name="slide_1_desc">Experience state of the art data protection</string>
+
+    <string name="slide_2_title">KEEP ME SAFE</string>
+    <string name="slide_2_desc">Keeps your data safe from strangers</string>
+
+    <string name="slide_3_title">LOCATE YOUR PHONE</string>
+    <string name="slide_3_desc">Tracks your phone,when it is lost</string>
+
+    <string name="slide_4_title">LETS MOVE FORWARD</string>
+    <string name="slide_4_desc">Hawk-eye Team</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
