@@ -1,1 +1,2 @@
 include ':app'
+#exclude ':s'omething
